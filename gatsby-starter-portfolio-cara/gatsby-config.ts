@@ -8,12 +8,12 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteTitle: `Kaikane`,
+    siteTitleAlt: `Kaikanes portfolio`,
+    siteHeadline: `Kaikane`,
+    siteUrl: ``,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
-    siteImage: `/banner.jpg`,
+    siteImage: ``,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
   },
@@ -27,7 +27,7 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `kaikane portfolio`,
         short_name: `Cara`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
