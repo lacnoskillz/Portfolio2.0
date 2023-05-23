@@ -14,4 +14,4 @@ A place for potential employers to look at my work
 ##### Link
 ***
 click for deployed app
-[click me]([https://lacnoskillz.github.io/Kaikanes-Portfolio/](https://build-2d7313f2-34e1-42a3-a01f-4b91503fa100.gatsbyjs.io/))
+[click me](https://build-2d7313f2-34e1-42a3-a01f-4b91503fa100.gatsbyjs.io/)
