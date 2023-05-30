@@ -10,7 +10,7 @@ A place for potential employers to look at my work
 
 #### Screen shot
 ***
-![image]()
+![image](./gatsby-starter-portfolio-cara/static/Screenshot%20(181).png)
 ##### Link
 ***
 click for deployed app
